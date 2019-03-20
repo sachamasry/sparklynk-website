@@ -7,7 +7,7 @@ disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 #enableGitInfo = true
 publishDir = "../docs"
-themesDir = "../.."
+#themesDir = "../.."
 
 [permalinks]
     post = "/:year/:month/:day/:slug/"
